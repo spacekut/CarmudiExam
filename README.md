@@ -1,4 +1,4 @@
-# CarmudiExam
+# Robot Framework Installation
 
 Pre-requisites:
 - OS: Windows
