@@ -1,12 +1,12 @@
 # Running Robot Script
 
 Pre-requisites:
-- Make sure that the 3 .robot files and Setup.py are in the same folder
-- Make sure in the command prompt, you are in that robot folder
-- (FOR VIRTUAL ENV USERS) Make sure to work on your virtualenv where you setup pybot
+- Clone this project
+- Make sure in the command prompt, you are in the folder where this project is cloned
+- Make sure you are on your working on your virtualenv
 
 How to run robot script:
-1. Execute in cmd "pybot -i FilteringByPrice ."
+1. Execute in command prompt "pybot -i FilteringByPrice ."
 
 -i means execute the script with tag "FilteringByPrice"
-. means look for all the current files in the folder
+. means search all the files in the current folder
