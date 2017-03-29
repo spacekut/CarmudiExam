@@ -2,8 +2,8 @@
 Documentation            This suite is for functionality testing of filtering by price.
 Default Tags             FilteringByPrice
 Library                  Selenium2Library
-Resource                 keywords/filtering_by_price_keywords.robot
-Resource                 keywords/filtering_by_price_variables.robot
+Resource                 filtering_by_price_keywords.robot
+Resource                 filtering_by_price_variables.robot
 Suite Setup              Open Browser    https://www.carmudi.com.ph/all/    chrome
 Suite Teardown           Close All Browsers
 
