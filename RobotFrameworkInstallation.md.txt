@@ -23,7 +23,7 @@ Installing virtualenv (NOTE: This is a tool to create isolated Python environmen
 
 Installing Robot Framework and Pybot (NOTE: I've already added a setup.py where Robot Framework and all the needed libraries are set)
 1. Make sure you're in the project folder
-2. Execute pip install -e . (This is to installl all packages for the program to run)
+2. Execute "pip install -e ." (This is to install all needed packages for the program to run)
 3. Close command prompt to apply changes
 
 # Running Robot Script
